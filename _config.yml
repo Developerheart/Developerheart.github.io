@@ -20,11 +20,11 @@ email: leonardonascimento897@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: Developerheart
+codepen_username: 
+dev_username: Hiro
+linkedin_username: Leonardo Nascimento
+twitter_username: @lionfuckingheart
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Um amante de tecnologia extremamente motivado a aprender novas ferramentas que me qualificam para as mais diversas oportunidades no meio. Curioso e comunicativo, busco sempre estar por dentro desse mundo e trabalhar para melhorá-lo. Confiança e curiosidade são a chave para uma ótima vida. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
 # show_skills_card:
