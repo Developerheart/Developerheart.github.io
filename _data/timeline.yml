@@ -25,14 +25,14 @@
     - tag: Java
     - tag: Spring
     - tag: Primefaces
-    - tag: JSF
-    - tab: JPA
+    - tag: Jsf
     - tag: Oracle DB
     - tag: Wildfly
     - tag: Glassfish
     - tag: Tomcat
     - tag: Angular
     - tab: Xslt-Xml
+    - tab: JPA
 
   timeline-side: left
 
