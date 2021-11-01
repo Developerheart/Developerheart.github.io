@@ -31,8 +31,6 @@
     - tag: Glassfish
     - tag: Tomcat
     - tag: Angular
-    - tab: Xslt
-    - tab: Jpa
 
   timeline-side: left
 
