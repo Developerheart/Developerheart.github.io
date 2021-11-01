@@ -6,28 +6,28 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
+  weight: 2
 
 - name: React
   weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
 
 - name: Django
   weight: 1
 
 - name: Spring
-  weight: 2
+  weight: 5
 
-- name: Rails
+- name: BootStrap
+  weight: 3
+
+- name: PrimeFaces
+  weight: 3
+
+- name: QueryDsl
   weight: 4
+
+- name: Hibernate
+  weight: 4
+
+- name: Jsf
+  weight: 3
