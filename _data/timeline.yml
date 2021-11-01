@@ -17,45 +17,31 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Lampp-it Solutions
+  title-url: https://www.lampp-it.com.br/
+  date: Sep 2021 - present
+  subtitle: Desenvolvedor
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
+    - tag: Java
+    - tag: Spring
+    - tag: Primefaces
+    - tag: JSF
+    - tag: Oracle DB
+    - tag: Wildfly
+    - tag: Glassfish
+    - tag: Tomcat
+    - tag: Angular
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Sefaz-AC
+  title-url: http://sefaznet.ac.gov.br/sefazonline/servlet/principal
+  date: Mar 2021 - Sep 2021
+  subtitle: Estágiario
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Java
+    - tag: Oracle Db
+    - tag: HTML
+    - tag: CSS
+    - tag: JavaScript
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
