@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Expo abilitites
+title: Curriculo
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Desenvolvido para expor habilidades e experiências
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Developerheart
+username: Leonardo Souza do N
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Bem vindo . . .
@@ -24,7 +24,7 @@ github_username: Developerheart
 codepen_username: 
 dev_username: Hiro
 linkedin_username: Leonardo Nascimento
-twitter_username: lionfunkingheart
+twitter_username: lionfuckingheart
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -42,7 +42,7 @@ about_me_description: Um amante de tecnologia extremamente motivado a aprender n
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Habilidades
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -65,7 +65,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Projetos
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
