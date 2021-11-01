@@ -40,3 +40,19 @@
 
 - name: Postman
   weight: 4
+
+- name: Github
+  weight: 4
+
+- name: Gitlab
+  weight: 4
+
+- name: PyCharm
+  weight: 3
+
+- name: OracleDb
+  weight: 2
+
+
+- name: Mysql
+  weight: 3
